@@ -6,7 +6,7 @@ The work presented in this repository is to be considered open source under the 
 
 
 ```
-@inproceedings{mgc-hansen-marinosson,
+@misc{mgc-hansen-marinosson,
   title={Audio Features for Music Genre Classification},
   author={Hansen, Nicklas and Marinosson, Bragi},
   year={2019}
